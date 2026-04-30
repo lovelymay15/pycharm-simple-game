@@ -1,6 +1,6 @@
 # Shoot, Baby, Shoot!
 
-A simple 2D arcade shooter game built with Python and Pygame (my 2023 activity).
+A simple 2D arcade shooter game built with Python and PyCharm (my 2023 activity).
 
 Protect your baby formulas from enemy zombie babies using your poop bazooka!
 
